@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+  font-size: 44px;
+  position: absolute;
+  top: 1px; /* make the title appear at the top */
+  left: 50%; /* adjust the title to stay in the middle */
+  transform: translateX(-50%);
+}
+canvas {
+  border-radius: 20px; /* roundinh the edges of the canvas*/
+
+}
+body {
+  display: flex;
+  justify-content: center;/*centralize the body*/
+  align-items: center;
+  height: 110vh; /*visible height of the body */
+  position: relative;
+}
