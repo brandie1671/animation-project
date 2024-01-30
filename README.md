@@ -1,0 +1,1 @@
+project involving an animation that mimics how a chameleon changes its  various colors to fit in with its surroundings in a forest or jungle. Well, the project is all about showing off this amazing ability they have, called adaptive camouflage. It's like a virtual adventure into the chameleon's world, where you get to see how it blends in perfectly with its surrounding.
